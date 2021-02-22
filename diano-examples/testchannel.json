@@ -1,0 +1,13 @@
+{
+	"source": {
+		"tag": "telegram",
+		"channelid": "linuxgram"
+	},
+	"destination": {
+		"tag": "utopia",
+		"channelid": "D968795137BF4BCDD232E7D5B04E95F2"
+	},
+	"params": {
+		"limit": 3
+	}
+}
