@@ -1,0 +1,1 @@
+curl -H "Content-Type: application/json" -X POST -d '{"method": "getSystemInfo", "token": "70E7D72AC6D91B5585E4B7D2F8A9A437"}' http://127.0.0.1:22824/api/1.0
