@@ -1,2 +1,2 @@
 #!/bin/sh
-pidof utopia >/dev/null || sh /home/utopiahome/start.sh >/dev/null
+/usr/sbin/pidof utopia >/dev/null || sh /home/utopiahome/start.sh >/dev/null
